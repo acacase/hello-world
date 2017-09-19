@@ -2,4 +2,8 @@
 
 Hi my name is Andrea and this is my second day at Boston University.
 
-This is my branch.
+Everyone is very nice here.
+
+The office temperature is very cold.
+
+Good thing I brought a sweatshirt!
